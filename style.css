@@ -7,6 +7,9 @@ h2 {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-style: italic;
 font-size: 20px;
+margin-bottom: 30px;
+display: inline-block;
+width: 60%;
 }
 
 h3 {
@@ -37,4 +40,5 @@ font-size: 18px;
 
 .picture {
 border-radius: 50%;
+display: inline-block;
 }
